@@ -13,3 +13,6 @@ https://github.com/smartinternz02/SPSGP-523542-Bird-Species-Classification-with-
 
 # Overview:
 Bird Species Classification is a machine learning project designed to identify and classify various bird species from images. The project aims to leverage state-of-the-art deep learning techniques to create an accurate and efficient bird species recognition system. By harnessing the power of artificial intelligence, this project seeks to contribute to the conservation and understanding of avian biodiversity.
+
+# Dataset link
+https://www.kaggle.com/datasets/akash2907/bird-species-classification
